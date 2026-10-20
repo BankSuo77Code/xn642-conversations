@@ -2,6 +2,8 @@
 
 用于团队共享、补充和修订“XN642-比赛”项目的讨论记录。对话按聊天分别保存为 UTF-8 Markdown，可直接在 GitHub 阅读和编辑。
 
+仓库地址：<https://github.com/BankSuo77Code/xn642-conversations>
+
 ## 对话目录
 
 本次快照时间：**2026-10-21 00:23:52（上海时间）**，共 4 个聊天、64 条用户及助手可见消息。
@@ -21,7 +23,7 @@
 
 仓库使用 **Private（私有）** 可见性。仓库所有者通过 GitHub 的 Collaborators 设置邀请同事，受邀同事接受邀请后可以阅读、上传和修改内容。
 
-预定协作者：[@YoakeLee](https://github.com/YoakeLee)，权限为读写。实际邀请及接受状态以仓库设置为准。
+已向 [@YoakeLee](https://github.com/YoakeLee) 发送读写权限邀请。请使用该账号打开 [邀请页面](https://github.com/BankSuo77Code/xn642-conversations/invitations) 并接受邀请，然后即可阅读、上传和修改内容。最新接受状态以仓库设置为准。
 
 最方便的使用方式：登录 GitHub 后打开仓库，点击 Markdown 文件的编辑按钮修改；新增文件使用 **Add file → Create new file**，上传文件使用 **Add file → Upload files**，最后点击 **Commit changes** 保存。
 

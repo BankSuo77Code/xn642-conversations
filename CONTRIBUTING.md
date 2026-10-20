@@ -4,7 +4,7 @@
 
 使用被邀请的 GitHub 账号登录，在 GitHub 通知或邀请邮件中接受仓库邀请。私有仓库只对所有者和获得访问权限的账号开放；只转发仓库链接不会自动授予权限。
 
-本仓库拟邀请 `YoakeLee` 作为读写协作者。接受邀请后，可以直接提交文件和修改，也可以通过分支及 Pull Request 讨论较大改动。
+已向 `YoakeLee` 发送读写权限邀请。请用该账号打开 [邀请页面](https://github.com/BankSuo77Code/xn642-conversations/invitations) 并接受。接受邀请后，可以直接提交文件和修改，也可以通过分支及 Pull Request 讨论较大改动。
 
 ## 在 GitHub 网页编辑和上传
 
@@ -17,7 +17,14 @@
 
 ## 在本地协作
 
-从仓库页面 **Code → HTTPS** 复制地址，然后克隆。每次开始编辑前先拉取最新内容。
+首次使用时克隆仓库：
+
+```powershell
+git clone https://github.com/BankSuo77Code/xn642-conversations.git
+cd xn642-conversations
+```
+
+每次开始编辑前先拉取最新内容：
 
 ```powershell
 git pull --ff-only
