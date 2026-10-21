@@ -21,11 +21,11 @@
 
 ## 团队协作
 
-仓库使用 **Private（私有）** 可见性。仓库所有者通过 GitHub 的 Collaborators 设置邀请同事，受邀同事接受邀请后可以阅读、上传和修改内容。
+仓库使用 **Public（公开）** 可见性，任何人都可以阅读和下载内容。具有写权限的协作者可以直接上传和修改仓库文件。
 
-已向 [@YoakeLee](https://github.com/YoakeLee) 发送读写权限邀请。请使用该账号打开 [邀请页面](https://github.com/BankSuo77Code/xn642-conversations/invitations) 并接受邀请，然后即可阅读、上传和修改内容。最新接受状态以仓库设置为准。
+[@YoakeLee](https://github.com/YoakeLee) 已具有读写权限，可直接上传和修改内容。新增协作者由仓库所有者通过 GitHub 的 Collaborators 设置邀请。
 
-最方便的使用方式：登录 GitHub 后打开仓库，点击 Markdown 文件的编辑按钮修改；新增文件使用 **Add file → Create new file**，上传文件使用 **Add file → Upload files**，最后点击 **Commit changes** 保存。
+具有写权限的协作者登录 GitHub 后，可点击 Markdown 文件的编辑按钮修改；新增文件使用 **Add file → Create new file**，上传文件使用 **Add file → Upload files**，最后点击 **Commit changes** 保存。
 
 协作约定、分支操作及本地更新方法见 [CONTRIBUTING.md](CONTRIBUTING.md)。补充研究笔记可放入 [notes/](notes/README.md)。
 
