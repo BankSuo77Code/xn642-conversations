@@ -1,0 +1,1 @@
+1ff97e7c42bf3ffd48b96a1603448d3ada10be3b9718a1a34ec7723d7a26db84  HaidaoViewpointTrajectory-v1.0.2-win-x64-with-map.zip
